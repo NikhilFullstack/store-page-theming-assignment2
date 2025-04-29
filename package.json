@@ -28,6 +28,7 @@
     "@tiptap/pm": "^2.6.6",
     "@tiptap/react": "^2.6.6",
     "@tiptap/starter-kit": "^2.6.6",
+    "@types/html2canvas": "^0.5.35",
     "@visx/pattern": "^3.3.0",
     "axios": "^1.7.7",
     "axios-mock-adapter": "^2.0.0",
@@ -40,6 +41,7 @@
     "framer-motion": "^11.5.4",
     "gantt-task-react": "^0.3.9",
     "html-react-parser": "^5.1.15",
+    "html2canvas": "^1.4.1",
     "js-cookie": "^3.0.5",
     "lodash": "^4.17.21",
     "marked": "^14.1.2",
@@ -55,7 +57,7 @@
     "react-modal": "^3.16.1",
     "react-number-format": "^5.4.2",
     "react-portal": "^4.2.2",
-    "react-router-dom": "^6.26.2",
+    "react-router-dom": "^6.30.0",
     "react-scroll": "^1.9.0",
     "react-select": "^5.8.0",
     "react-simple-maps": "4.0.0-beta.6",
@@ -102,7 +104,20 @@
     "prettier": "^3.3.3",
     "tailwindcss": "^3.4.10",
     "typescript": "^5.6.2",
-    "vite": "^5.4.3",
+    "vite": "^5.4.18",
     "vite-plugin-dynamic-import": "^1.5.0"
-  }
+  },
+  "description": "This assignment requires implementing a multi-theme system for the GoGetWell.ai platform to create contextually relevant interfaces for different medical specialties. The theme system should allow easy switching between themes and provide a consistent look and feel across all pages.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilFullstack/store-page-theming-assignment2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhilFullstack/store-page-theming-assignment2/issues"
+  },
+  "homepage": "https://github.com/NikhilFullstack/store-page-theming-assignment2#readme"
 }
